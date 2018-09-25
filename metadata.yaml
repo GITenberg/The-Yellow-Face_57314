@@ -1,0 +1,25 @@
+_repo: The-Yellow-Face_57314
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Fred M. (Fred Merrick)
+    aliases:
+    - White, Frederick Merrick
+    - White, Fred Merrick
+    birthdate: 1859
+    gutenberg_agent_id: '3160'
+    url: http://www.gutenberg.org/2009/agents/3160
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Merrick_White
+description: ''
+gutenberg_issued: '2018-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57314'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Yellow Face
+url: http://www.gutenberg.org/ebooks/57314
